@@ -1,0 +1,6 @@
+
+1009	ALPHA
+
+100c	BETA
+
+100f	GAMMA
